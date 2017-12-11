@@ -1,2 +1,2 @@
 # Backend.WeChatApp.Api
-微新小程序接口
+微信小程序接口
